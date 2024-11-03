@@ -5,8 +5,20 @@ sidebar_link: true
 sidebar_sort_order: 5
 ---
 
-![illustration](/static/img/contact.jpg){:class="cover"}
+This contact form uses Formspree, so once you hit the "Send" button, you will be redirected to the Formspree page that tells you that the message has been submitted, and a button to return to my blog. Please do not keep re-submitting the form. The confirmation message means that I have gotten the message.
 
-Your best bet for interacting with me is probably to [send me an email](mailto:nicolas@perriault.net).
-
-You can also find me on [Mastodon](https://mamot.fr/@n1k0), [Github](https://github.com/n1k0) and [Telegram](http://telegram.me/n1k0p).
+<form
+  action="https://formspree.io/f/myzyeyrv"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
