@@ -6,8 +6,6 @@ sidebar_sort_order: 4
 lang: en
 ---
 
-# DarkProtocol9: My Home Away from Home
-
 This is **darkprotocol9**—the identity I'll be writing under in this blog. Think of it as my kind of home away from home. I’ve created different blogs in the past, often with the goal of typing out my feelings and thoughts—a mix of venting and life updates. This blog, in a way, will be like a public diary, open for anyone to read.
 
 With my handle on Instagram is @darkprotocol9, and you may connect this blog to me. I’m immensely grateful for each person I’ve met, regardless of how our interactions unfolded. Each connection, good or bad, was a part of an intense and meaningful learning experience.
