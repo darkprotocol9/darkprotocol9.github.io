@@ -5,7 +5,10 @@ sidebar_link: true
 sidebar_sort_order: 5
 ---
 
-Once you hit the "Send" button, you will be redirected to a page that tells you that the message has been submitted, and a button to return to this page. Please do not keep re-submitting the form. The confirmation message means that I have gotten the message. Your message might still be in the textbox
+Use the form below to contact me or sign into Github and leave a comment at [my discussion fourm](https://github.com/darkprotocol9/darkprotocol9.github.io/discussions).
+
+How to use the form below (self-explanatory):
+Once you hit the "Send" button, you will be redirected to a page that tells you that the message has been submitted, and a button to return to this page. Please do not keep re-submitting the form. The confirmation message means that I have gotten the message. Your message might still be in the textbox when you return to this page. Please ignore that as I could not be bothered to fix that issue.
 
 <form
   action="https://formspree.io/f/myzyeyrv"
@@ -34,22 +37,4 @@ Once you hit the "Send" button, you will be redirected to a page that tells you 
   >
     Send
   </button>
-</form>
-
-----------------------------
-
-<form
-  action="https://formspree.io/f/myzyeyrv"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
 </form>
