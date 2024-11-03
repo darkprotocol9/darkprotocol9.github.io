@@ -3,16 +3,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hi, I'm Nicolas
-tagline: Nicolas Perriault
+title: Hi, I'm darkprotocol9
+tagline: darkprotocol9
 description: >-
   ... and this is my weblog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url:     "https://nicolas.perriault.net" # the base hostname & protocol for your site, e.g. http://example.com
+url:     "https://darkprotocol9.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:year/:title/
-github_username:  n1k0
-email: nicolas@perriault.net
-title_image: https://nicolas.perriault.net/static/img/me.png
+github_username:  darkprotocol9
+email:
+title_image: https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/465486235_1478498262839921_3726442401525232095_n.jpg
 
 # Build settings
 markdown: kramdown
@@ -30,7 +30,7 @@ feed:
     - code
     - talks
 author:
-  name: Nicolas Perriault
+  name: Dark Protocol9
 jekyll_tidy:
   # exclude: [ "*.md" ]
   compress_html: false
