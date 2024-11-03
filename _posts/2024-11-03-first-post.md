@@ -1,7 +1,7 @@
 ---
 title: First Post
 date: 2024-11-03
-category: blog
+category: 1705
 tags: thoughts ideas wishes usb key decrypt
 ---
 There are times where you want to talk about somthing but don't really have the courage, strength or willpower to do so. There are other times where you feel like all the courage in the world is eminating from the core of your being but you have to hold yourself back.
